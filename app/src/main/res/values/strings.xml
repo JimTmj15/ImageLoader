@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Image Loader</string>
+    <string name="alert_dialog_err_title">Error</string>
+    <string name="pos_btn">OK</string>
+    <string name="transition_name">ImageTransformAnim</string>
+</resources>
